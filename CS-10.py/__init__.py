@@ -1,0 +1,2 @@
+#This file is require if you are using old python version. In new python version this file is not required.
+#You can configure your python version in settings.py file. If you are using old python version then you can use this file to import all the required modules and packages.
