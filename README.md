@@ -349,6 +349,6 @@ If this repository helped you:
 
 ### 🐍 Code. Learn. Practice. Repeat.
 
-**Made with Python & ❤️**
+**Made with Python**
 
 </div>
